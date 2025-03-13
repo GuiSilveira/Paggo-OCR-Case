@@ -1,0 +1,6 @@
+[submodule "paggo-ocr-frontend-case"]
+	path = paggo-ocr-frontend-case
+	url = https://github.com/GuiSilveira/paggo-ocr-frontend-case.git
+[submodule "paggo-ocr-case-backend"]
+	path = paggo-ocr-case-backend
+	url = https://github.com/GuiSilveira/paggo-ocr-case-backend.git
