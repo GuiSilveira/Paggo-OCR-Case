@@ -64,6 +64,7 @@ npm run start:dev
 Caso os repositórios estejam disponíveis online, os links para as aplicações podem ser encontrados abaixo:
 
 🔗 **Frontend:** [https://paggo-ocr-frontend-case-fqh8t93re-guilherme-coutinhos-projects.vercel.app/login](https://paggo-ocr-frontend-case-fqh8t93re-guilherme-coutinhos-projects.vercel.app/login)
+
 🔗 **Backend:** [https://paggo-ocr-case-backend.onrender.com](https://paggo-ocr-case-backend.onrender.com)
 
 ---
